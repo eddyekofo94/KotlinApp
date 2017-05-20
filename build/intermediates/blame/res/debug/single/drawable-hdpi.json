@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/build/intermediates/res/merged/debug/drawable-hdpi/img_books_loading.png",
+        "source": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/src/main/res/drawable-hdpi/img_books_loading.png"
+    },
+    {
+        "merged": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/build/intermediates/res/merged/debug/drawable-hdpi/img_books_large.png",
+        "source": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/src/main/res/drawable-hdpi/img_books_large.png"
+    },
+    {
+        "merged": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_books.png",
+        "source": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/src/main/res/drawable-hdpi/ic_books.png"
+    },
+    {
+        "merged": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Volumes/CODING_ED/Programing/Android/omg-android-starter/KotlinApp/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
